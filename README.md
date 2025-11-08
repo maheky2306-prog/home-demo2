@@ -1,3 +1,3 @@
 # home-demo2
-This is for practice 
+This is for practice.
 Author - Mahek yadav
